@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8080-a62e47a1-a33b-47e9-9a62-43d0c24caddf.ws-eu01.gitpod.io',
                  'localhost',
-                 'ak87-django-todo.heroku.com']
+                 'ak87-django-todo.herokuapp.com']
 
 
 # Application definition
